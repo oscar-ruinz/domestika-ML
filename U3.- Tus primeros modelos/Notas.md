@@ -45,4 +45,3 @@ Debemos evitar datos irrelevantes que no son de importancia para nuestras predic
 Finalmente se separan los datos en dos conjuntos: entrenamiento (80%) y pruebas (20%), el primero para entrenar el modelo y el segundo para evaluar que tan bien entrenado está el modelo.
 
 <img src="Images/entrenamientoPruebas.png">
-
