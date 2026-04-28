@@ -99,19 +99,3 @@ Este repositorio contiene los ejercicios, prácticas y el proyecto final desarro
 ---
 
 **Nota**: Este es un repositorio personal de aprendizaje basado en el curso de Domestika.
-
-
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
-
-> [!TIP]
-> Helpful advice for doing things better or more easily.
-
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
